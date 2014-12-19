@@ -1,1 +1,1 @@
-PSequel is not open source at this moment (but it might be in the future). Please report bugs and/or request enhancements [here](https://github.com/psequel/psequel-issue/issues) or [here](http://www.psequel.com/report_bugs).
+PSequel is not open source at this moment (but it might be in the future). Please report bugs and/or request enhancements [here](https://github.com/psequel/psequel-issues/issues) or [here](http://www.psequel.com/report_bugs).
