@@ -1,5 +1,24 @@
-PSequel is not open source at this moment (but it might be in the future). Please report bugs and/or request enhancements [here](https://github.com/psequel/psequel-issues/issues).
+## FAQ
 
-Please be sure to include your OS X/PostgreSQL/PSequel version number when reporting a bug.
+### Why yet another PostgreSQL GUI client? Why not just pgAdmin?
+Well, pgAdmin is great for its feature-richness. However, I found its UI is clumsy and complicated. I know there is <a href="https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools" target="_blank">a list of PostgreSQL GUI Tools</a>. However, they are either web-based, Java-based<sup>*</sup> or don't support the features I want. In the good old MySQL world, my favorite client is <a href="http://sequelpro.com/" target="_blank">Sequel Pro</a>, but its support for PostgreSQL doesn't seem to be happening. So, I decided to make one myself.
 
-If you are reporting multiple bugs or requesting multiple enhancements, please create separate issues for each bug/enhancement.
+**&nbsp;No offense to the Java community. I am a Java developer myself and I like JVM a lot. I just dislike Java desktop apps personally.*
+
+### Is PSequel open-source?
+No. There is no plan to open source it at this moment.
+
+### Is PSequel a forked version of Sequel Pro?
+No, PSequel is written from scratch in Swift 2, although PSequel's UI is highly inspired by Sequel Pro. 
+
+### Why OS X 10.10+ only?
+I am developing PSequel in my spare time. By supporting OS X 10.10+ only, I can keep the codebase simpler and save time by not testing it in older versions of OS X. And, less code, less bugs.
+
+### What's the current status of PSequel?
+PSequel is still in its early stage. My plan to implement most features in Sequel Pro. If you think a feature is important, please let me know and I'll adjust its priority based on its popularity.
+
+### How do I report bugs or suggest new features?
+Use <a href="https://github.com/psequel/psequel/issues" target="_blank">Github issue tracker</a>. Please try not to create duplicate issues. If you are reporting multiple bugs or suggesting multiple features, please create separate issues for each bug/feature. Please include your OS X, PostgreSQL and PSequel versions when reporting a bug. If you don't have a Github account, you could report bugs <a href="http://www.psequel.com/report_bugs" target="_blank">here</a>.
+
+### How do I support the development of PSequel?
+If you like PSequel, please report bugs and/or <a href="https://twitter.com/psequel" target="_blank">help spread the word</a>.
