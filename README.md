@@ -5,20 +5,20 @@ Well, pgAdmin is great for its feature-richness. However, I found its UI is clum
 
 **&nbsp;No offense to the Java community. I am a Java developer myself and I like JVM a lot. I just dislike Java desktop apps personally.*
 
-### Is PSequel open-source?
+### Is PSequel open source?
 No. There is no plan to open source it at this moment.
 
 ### Is PSequel a forked version of Sequel Pro?
 No, PSequel is written from scratch in Swift 2, although PSequel's UI is highly inspired by Sequel Pro. 
 
-### Why OS X 10.10+ only?
-I am developing PSequel in my spare time. By supporting OS X 10.10+ only, I can keep the codebase simpler and save time by not testing it in older versions of OS X. And, less code, less bugs.
+### Why macOS 10.10+ only?
+I am developing PSequel in my spare time. By supporting macOS 10.10+ only, I can keep the codebase simpler and save time by not testing it in older versions of macOS. And, less code, less bugs.
 
 ### What's the current status of PSequel?
 PSequel is still in its early stage. My plan to implement most features in Sequel Pro. If you think a feature is important, please let me know and I'll adjust its priority based on its popularity.
 
 ### How do I report bugs or suggest new features?
-Use [Github issue tracker](https://github.com/psequel/psequel/issues). Please try not to create duplicate issues. If you are reporting multiple bugs or suggesting multiple features, please create separate issues for each bug/feature. Please include your OS X, PostgreSQL and PSequel versions when reporting a bug. If you don't have a Github account, you could report bugs [here](http://www.psequel.com/report_bugs).
+Use [Github issue tracker](https://github.com/psequel/psequel/issues). Please try not to create duplicate issues. If you are reporting multiple bugs or suggesting multiple features, please create separate issues for each bug/feature. Please include your macOS, PostgreSQL and PSequel versions when reporting a bug. If you don't have a Github account, you could report bugs [here](http://www.psequel.com/report_bugs).
 
 ### How do I support the development of PSequel?
 If you like PSequel, please report bugs and/or [help spread the word](https://twitter.com/psequel).
